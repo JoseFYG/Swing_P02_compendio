@@ -1,0 +1,124 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: 'Brush Script MT', cursive;
+  font-size: 2vw;
+  box-sizing: content-box;
+  width: 100%;
+}
+
+footer {
+  display: flex;
+  width: 100%;
+  margin-top: 2%;
+}
+
+.icon {
+  height: 5vw;
+  width: 5vw;
+}
+
+address {
+  width: 25%;
+  font-size: 1vw;
+  color: #00b347;
+}
+
+.copyright {
+  width: 50%;
+  text-align: center;
+  font-size: 1vw;
+  color: #67a1cf;
+}
+
+.social {
+  width: 25%;
+  text-align: right;
+}
+
+hr {
+  border: 0;
+  height: 0;
+  box-shadow: 0 1px 5px 1px blueviolet;
+}
+
+header {
+  text-align: center;
+  margin-bottom: 2%;
+}
+
+h1 {
+  font-size: 5vw;
+  color: #00b347;
+}
+
+h3 {
+  font-size: 2vw;
+  color: #67a1cf;
+}
+
+.content_wrapper {
+  display: flex;
+}
+
+nav {
+  width: 25%;
+  margin: 2%;
+  color: #00b347;
+}
+
+nav div {
+  padding-bottom: 30%;
+}
+
+nav {
+  width: 15%;
+  margin: 2%;
+  display: flex;
+  flex-direction: column;
+}
+
+main {
+  width: 50%;
+  margin: 2%;
+  border-radius: 20px;
+  border: #67a1cf 4px solid;
+  padding: 3%;
+  text-align: center;
+  color: #00b347;
+  font-size: 6vw;
+}
+
+h5 {
+  font-size: 1vw;
+  text-align: justify;
+}
+
+article {
+  width: 30%;
+  margin: 2%;
+  border-radius: 20px;
+  border: #67a1cf 4px solid;
+  padding: 3%;
+  text-align: center;
+}
+
+article div h3 {
+  color: #00b347;
+}
+
+.articles {
+  display: flex;
+}
+
+.articles article {
+  border: #00b347 4px solid;
+}
+
+h4 {
+  color: #67a1cf;
+}
+
+img {
+  border-radius: 20px;
+}
