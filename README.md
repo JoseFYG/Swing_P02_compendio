@@ -28,5 +28,5 @@ Jose Francisco Yepes Gallardo
 Privada
 
 ### Recursos Adicionales
-Enlace a GitHub personal (https://github.com/JoseFYG)
+Enlace a [GitHub personal](https://github.com/JoseFYG)
 
