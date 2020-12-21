@@ -16,7 +16,7 @@ El proyecto esta desarrollado para unas prácticas de Desarrollo de Interfaces W
 [GitHub](https://github.com/JoseFYG/Swing_P02_compendio)
 
 ### Construido con
-[Visual Studio Code]
+[Visual Studio Code](https://code.visualstudio.com)
 
 ### Versionado
 BETA
